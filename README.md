@@ -6,4 +6,4 @@
 ![Discord quote](https://i.imgur.com/22VPChM.png)
 ![Sun Tzu 1](https://media.discordapp.net/attachments/765720809519316992/802000710950584350/Sun_Zhu_Quote_DTester.jpg)
 ![Sun Tzu 2](https://media.discordapp.net/attachments/765720809519316992/802000782537916426/Sun_Zhu_Quote_DTester_2.jpg)
-![How to read pins](http://dtesters.glitch.me/pin)
+How to read pins - http://dtesters.glitch.me/pin
